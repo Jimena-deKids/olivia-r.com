@@ -1,0 +1,35 @@
+body{
+    background: rgb(188, 98, 204);
+}
+.principal{
+    background: rgb(104, 51, 105);
+    text-align: center;
+}
+img{
+    width: 15%;
+}
+
+.subcategoría{
+    background: rgb(145, 97, 146);
+    text-align: left;
+}
+.subcategoría img{
+    width: 15%;
+}
+
+
+.subsubcategoría{
+    background: rgb(191, 164, 194);
+    text-align: left;
+}
+.subsubcategoría img{
+    width: 15%;
+}
+
+.sevillana-regular {
+    font-family: "Sevillana", cursive;
+    font-weight: 400;
+    font-size: xx-large;
+    font-style: normal;
+  }
+  
